@@ -1,0 +1,11 @@
+body {
+    justify-content: center;
+}
+
+h2 {
+    color: hsl(14, 45%, 36%);
+}
+
+strong {
+    color: hsl(14, 45%, 36%);
+}
